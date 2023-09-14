@@ -33,13 +33,13 @@ A full-stack chat application built using Node.js and React.js, offering real-ti
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/nodejs-realtime-chat.git
+   git clone https://github.com/ChiragGadhvi/NodeJS-Realtime-ChatApp.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd nodejs-realtime-chat
+   cd NodeJS-Realtime-ChatApp
    ```
 
 3. Install the required dependencies for the backend:
